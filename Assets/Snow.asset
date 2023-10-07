@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33e1b27a0f4df0e429f88f93256e8e3c, type: 3}
+  m_Name: Snow
+  m_EditorClassIdentifier: 
+  grass: {fileID: 11400000, guid: b2eae8222f4736740b60e46c06654339, type: 2}
+  dirt: {fileID: 11400000, guid: b2eae8222f4736740b60e46c06654339, type: 2}
+  stone: {fileID: 11400000, guid: b2eae8222f4736740b60e46c06654339, type: 2}
+  log: {fileID: 0}
+  leaf: {fileID: 0}
+  tallGrass: {fileID: 11400000, guid: 6bd7261be7275be4f84e1728c77b0bc7, type: 2}
+  snow: {fileID: 0}
+  sand: {fileID: 0}
+  coal: {fileID: 0}
+  iron: {fileID: 0}
+  gold: {fileID: 0}
+  diamond: {fileID: 0}

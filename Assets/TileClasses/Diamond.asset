@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81efba269bbd34e4fa7309f42c1f4d68, type: 3}
+  m_Name: Diamond
+  m_EditorClassIdentifier: 
+  tileName: Diamond
+  wallVariant: {fileID: 11400000, guid: 2eeb7e97609bc9546906bcd40db307c1, type: 2}
+  tileSprites:
+  - {fileID: 21300000, guid: 0a7a4e357f201774d98dc616636e899b, type: 3}
+  - {fileID: 21300000, guid: 00ecbe1cb5a5aeb48a0671e836321685, type: 3}
+  inBackground: 0
+  tileDrop: {fileID: 11400000}
+  toolToBreak: 2
+  naturallyPlaced: 1
